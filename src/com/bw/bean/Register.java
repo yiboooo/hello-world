@@ -7,6 +7,7 @@ public class Register {
 	private String gameid;
 	private String id;
 	private String imei;
+	
 	private String imsi;
 	private String name;
 	private String password;
